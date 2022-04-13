@@ -1,0 +1,20 @@
+{
+  "name": "random-messages-pao",
+  "version": "1.0.0",
+  "description": "ramdom de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "npm",
+    "node"
+  ],
+  "author": "Paola Herrera <paaolaaherrera@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
